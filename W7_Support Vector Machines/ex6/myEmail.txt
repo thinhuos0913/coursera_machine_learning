@@ -1,0 +1,27 @@
+Hello Tran,
+
+Happy Tuesday!
+
+Time for another video :)
+
+In today's video, I cover some amazing Excel custom formatting tricks.
+
+Custom formatting is something that allows you to show the data in a cell in a specific way (without changing the actual value in the cell)
+
+And you can do some magical stuff with it.
+In this video, I cover the following topics:
+Hide All Cell Values
+Hide Zeros (or replace 0's with text)
+Conditional Custom Formatting (Show Text Based on Cell Value)
+Showing Dates in different formats (Month name or Day name)
+Show Negative Numbers in Red
+Show numbers in Millions or Billions
+Automatically Add Checkmark or Bullets before Text
+Some of these are a bit advanced, but I have tried my best to make sure I explain them in a way that anyone can understand.
+
+I am sure you will pick up some good tricks that you can use in your work.
+I hope you find today's tutorial useful.
+
+Also, if you're liking these videos, please give them a thumbs up and subscribe to the YouTube channel.
+
+Have a good week!
